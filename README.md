@@ -16,7 +16,7 @@
 ◼️Acá estaré subiendo mis Proyectos propios de Backend con Python, Django y Django Rest Framework.
 Es el área donde me estoy especializando y lo que más me gusta. 
 
-  📫 Mail de contacto :  
+  📫 Mail de contacto:  
   claratortora@gmail.com
 
 
@@ -29,9 +29,6 @@ Es el área donde me estoy especializando y lo que más me gusta.
 ![](https://github-readme-stats.vercel.app/api?username=ClaraTortora&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ClaraTortora&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraTortora&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ClaraTortora&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
