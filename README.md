@@ -13,8 +13,7 @@
 <div align="center">
   
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-◼️Acá estaré subiendo mis Proyectos propios de Backend con Python, Django y Django Rest Framework.
-Es el área donde me estoy especializando y lo que más me gusta. 
+◼️Acá estaré subiendo mis proyectos propios sobre QA y programación. 
 
   📫 Mail de contacto:  
   claratortora@gmail.com
