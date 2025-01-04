@@ -13,7 +13,7 @@
 <div align="center">
   
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-◼️Acá estaré subiendo mis proyectos propios sobre QA y programación. 
+◼️Aquí estaré subiendo mis proyectos propios sobre QA y programación. 
 
   📫 Mail de contacto:  
   claratortora@gmail.com
